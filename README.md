@@ -5,7 +5,7 @@ Vejo que esta procurando saber mais sobre mim e meu portfólio, e isso é uma ó
 Antes de tudo embaixo estão algumas informações caso precise me encontrar e algumas curiosidades sobre mim !!
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=brunogdalmeoda&theme=tokyonight-duo&locale=pt_BR&date_format=M%20j%5B%2C%20Y%5D&hide_total_contributions=true)](https://git.io/streak-stats)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=brunogdalmeida&show_icons=true&theme=tokyonight))](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=brunogdalmeida&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
