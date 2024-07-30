@@ -34,4 +34,4 @@ Para me contatar pode me encontrar aqui:
         
  
   </div>
-  [![Snake animation]](https://github.com/brunogdalmeida/brunogdalmeida/blob/output/github-contribution-grid-snake.svg)
+ 
