@@ -29,10 +29,10 @@ jobs:
       - uses: actions/checkout@v2
       
     # Generates the snake  
-      - uses: Platane/snk@master
+      - uses: Platane/snk@v3
         id: snake-gif
         with:
-          github_user_name: mishmanners
+          github_user_name: ${{ github.repository_owner }}
           # these next 2 lines generate the files on a branch called "output". This keeps the main branch from cluttering up.
           gif_out_path: dist/github-contribution-grid-snake.gif
           svg_out_path: dist/github-contribution-grid-snake.svg
@@ -44,7 +44,7 @@ jobs:
       - name: Push changes
         uses: ad-m/github-push-action@master
         with:
-          github_token: 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
+          github_token: ${{ secrets.GITHUB_TOKEN }}
           branch: main
           force: true
           
@@ -54,4 +54,4 @@ jobs:
           target_branch: output
           build_dir: dist
         env:
-          GITHUB_TOKEN: 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
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
